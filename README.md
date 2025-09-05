@@ -6,7 +6,6 @@ Start
     Calculate area = length * width
     Print area
 End
-
 (Output → area = 15)
 
 Kasus 2: Panjang dan lebar diinput oleh user
